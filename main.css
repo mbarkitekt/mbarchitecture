@@ -4,7 +4,7 @@
 
  */
 
-.article-post .a .btndown .md-opjjpmhoiojifppkkcdabiobhakljdgm_doc{
+.article-post a .btndown{
   float: left;
   list-style: none;
   text-align: center;
@@ -19,7 +19,7 @@
 }
 
 
-.article-post .a.btndown .md-opjjpmhoiojifppkkcdabiobhakljdgm_doc{
+.article-post a .btndown{
   position: relative;
   padding: 14px 48px 14px 16px;
   background: #02B070;
@@ -39,18 +39,18 @@
   overflow: hidden;
 }
 
-.article-post .a .btndown .md-opjjpmhoiojifppkkcdabiobhakljdgm_doc{
+.article-post a .btndown{
   background: #02B070;
 }
 
-.article-post .a .btndown .md-opjjpmhoiojifppkkcdabiobhakljdgm_doc:hover {
+.article-post a .btndown:hover {
   background: #111;
 }
 
-.article-post .a .btndown .md-opjjpmhoiojifppkkcdabiobhakljdgm_doc:active {
+.article-post a .btndown:active {
   cursor: pointer;
 }
-.article-post .a .btndown .md-opjjpmhoiojifppkkcdabiobhakljdgm_doc:after {
+.article-post a .btndown:after {
   content: '\F019';
   background: rgba(0, 0, 0, 0.1);
   position: absolute;
@@ -65,7 +65,7 @@
   transition: all .3s;
 }
 
-.article-post .a .btndown.md-opjjpmhoiojifppkkcdabiobhakljdgm_doc:hover .article-post .a .btndown .md-opjjpmhoiojifppkkcdabiobhakljdgm_doc:after {
+.article-post a .btndown:hover .btndown::after {
   background: transparent;
   -webkit-animation: bounceright .3s alternate ease infinite;
   animation: bounceright .3s alternate ease infinite;
@@ -112,7 +112,7 @@ text-align: left;
 
 
 
-.article-post .a .bdown {
+.article-post a .bdown {
     background: #000 none repeat scroll 0 0;
     color: orange;
     border-left: 5px solid orange;
@@ -124,7 +124,7 @@ text-align: left;
     padding: 8px;
   text-decoration: none;
   }
-.article-post .a .bdown {
+.article-post a .bdown {
     display: block;
     list-style-type: disc;
     margin-block-start: 1em;
