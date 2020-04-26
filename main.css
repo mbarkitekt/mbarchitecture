@@ -1,3 +1,218 @@
+
+/*!
+ *  All Rights Reserved
+
+ */
+
+.btndown .md-opjjpmhoiojifppkkcdabiobhakljdgm_doc{
+  float: left;
+  list-style: none;
+  text-align: center;
+  width: 95%;
+  margin: 10px;
+  padding: 2px;
+  font-size: 14px;
+  clear: both;
+    display: inline;
+  margin: 5px;
+  padding: 0;
+}
+
+
+.btndown .md-opjjpmhoiojifppkkcdabiobhakljdgm_doc{
+  position: relative;
+  padding: 14px 48px 14px 16px;
+  background: #02B070;
+  display: block;
+  color: #fff!important;
+  font-weight: 700;
+  font-size: 14px;
+  text-align: left;
+  text-transform: uppercase;
+  letter-spacing: .2px;
+  border-radius: 3px;
+  box-shadow: 0 1px rgba(0, 0, 0, 0.1);
+  line-height: normal;
+  transition: all .3s;
+  max-width: 580px;
+  margin: auto;
+  overflow: hidden;
+}
+
+.btndown .md-opjjpmhoiojifppkkcdabiobhakljdgm_doc{
+  background: #02B070;
+}
+
+.btndown .md-opjjpmhoiojifppkkcdabiobhakljdgm_doc:hover {
+  background: #111;
+}
+
+.btndown .md-opjjpmhoiojifppkkcdabiobhakljdgm_doc:active {
+  cursor: pointer;
+}
+.btndown .md-opjjpmhoiojifppkkcdabiobhakljdgm_doc:after {
+  content: '\F019';
+  background: rgba(0, 0, 0, 0.1);
+  position: absolute;
+  right: 0;
+  top: 0;
+  font-weight: normal;
+  display: inline-block;
+  margin: 0 0 0 10px;
+  color: #fff;
+  padding: 16px 24px;
+  font-family: fontawesome;
+  transition: all .3s;
+}
+
+.btndown.md-opjjpmhoiojifppkkcdabiobhakljdgm_doc:hover .btndown .md-opjjpmhoiojifppkkcdabiobhakljdgm_doc:after {
+  background: transparent;
+  -webkit-animation: bounceright .3s alternate ease infinite;
+  animation: bounceright .3s alternate ease infinite;
+}
+
+
+@-webkit-keyframes bounceright {
+  from {
+    -webkit-transform: translateX(0);
+  }
+  to {
+    -webkit-transform: translateX(3px);
+  }
+}
+
+@keyframes bounceright {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(3px);
+  }
+}
+
+
+
+#div.Tdown {
+box-sizing: border-box;
+background-color:#F3F6F7;
+border-top:3px solid #01B170;
+border-bottom:3px solid #01B170;
+border-right:3px solid #01B170;
+border-left:3px solid #01B170;
+position:relative;
+text-align: left;
+  display:inline-block;
+  margin:15px 5px;
+  padding:10px 10px 10px 30px;
+  color:#252525;
+  width: 100%;
+  max-width: 580px;
+  transition:all 0.4s ease
+}
+
+
+
+.a .bdown {
+    background: #000 none repeat scroll 0 0;
+    color: orange;
+    border-left: 5px solid orange;
+    border-radius: 5px;
+    position: relative;
+    overflow: hidden;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 8px;
+  text-decoration: none;
+  }
+ .bdown {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+.a .bdown:hover {
+      color: blue;
+    border-color: blue;
+}
+#pageredirect .radialbtn a {
+    display: inline-block;
+    background-color: #429481;
+    padding: 15px 20px;
+    min-width: 250px;
+    font-size: 16px;
+    color: #fff;
+    text-decoration: none;
+    cursor: progress;
+}
+.post-body .btn{display:inline-block;color:#FFFFFF}
+.btn{max-width: max-content; border-radius:2px;background:#D32F2F;padding:10px 20px;margin:5px;color:#fff;text-align:center;border:0;cursor:pointer;display:inline-block;text-decoration:none;font-weight:400;color:#fff;-webkit-box-shadow:0 4px 4px -2px rgba(0,0,0,0.1);;box-shadow:0 4px 4px -2px rgba(0,0,0,0.1)}
+.btn.small{font-size:12px;padding:6px 16px}
+.button.medium{font-size:14px;padding:8px 18px}
+.btn.large{font-size:16px;padding:10px 20px}
+.btn:hover{box-shadow:none;color:#fff;text-decoration:none; -webkit-box-shadow:none;    background-color: black;}
+.btn:active{top:1px}
+.red{background:#e74c3c}
+.orange{background:#F39C12}
+.green{background:#2ecc71}
+.blue{background:#3498db}
+.purple{background:#9b59b6}
+.yellow{background:#FFD600}
+.pink{background:#F889EB}
+.grey{background:#bdc3c7}
+.turquoise{background:#1abc9c}
+.midnight{background:#2c3e50}
+.asbestos{background:#6d7b7c}
+.dark{background:#454545}
+.small-btn{width:100%;overflow:hidden;clear:both}
+.medium-bnt{width:100%;overflow:hidden;clear:both}
+.large-btn{width:100%;overflow:hidden;clear:both}
+
+
+ /* -------------- about page Socialbuttons  -------------- */
+
+  .rounded-social-buttons{text-align:center}.rounded-social-buttons .social-button{display:inline-block;position:relative;cursor:pointer;width:3.125rem;height:3.125rem;border:.125rem solid transparent;padding:0;text-decoration:none;text-align:center;color:#fefefe;font-size:1.5625rem;font-weight:400;line-height:2em;border-radius:1.6875rem;transition:all .5s ease;margin-right:.25rem;margin-bottom:.25rem}.rounded-social-buttons .social-button:focus,.rounded-social-buttons .social-button:hover{-webkit-transform:rotate(360deg);-ms-transform:rotate(360deg);transform:rotate(360deg)}.rounded-social-buttons .social-button.facebook{background:#3b5998}.rounded-social-buttons .social-button.facebook:before{font-family:FontAwesome;content:"\f09a"}.rounded-social-buttons .social-button.facebook:focus,.rounded-social-buttons .social-button.facebook:hover{color:#3b5998;background:#fefefe;border-color:#3b5998}.rounded-social-buttons .social-button.twitter{background:#55acee}.rounded-social-buttons .social-button.twitter:before{font-family:FontAwesome;content:"\f099"}.rounded-social-buttons .social-button.twitter:focus,.rounded-social-buttons .social-button.twitter:hover{color:#55acee;background:#fefefe;border-color:#55acee}.rounded-social-buttons .social-button.linkedin{background:#007bb5}.rounded-social-buttons .social-button.linkedin:before{font-family:FontAwesome;content:"\f0e1"}.rounded-social-buttons .social-button.linkedin:focus,.rounded-social-buttons .social-button.linkedin:hover{color:#007bb5;background:#fefefe;border-color:#007bb5}.rounded-social-buttons .social-button.youtube{background:#b00}.rounded-social-buttons .social-button.youtube:before{font-family:FontAwesome;content:"\f167"}.rounded-social-buttons .social-button.youtube:focus,.rounded-social-buttons .social-button.youtube:hover{color:#b00;background:#fefefe;border-color:#b00}.rounded-social-buttons .social-button.instagram{background:#c13584}.rounded-social-buttons .social-button.instagram:before{font-family:FontAwesome;content:"\f16d"}.rounded-social-buttons .social-button.instagram:focus,.rounded-social-buttons .social-button.instagram:hover{color:#c13584;background:#fefefe;border-color:#c13584}.rounded-social-buttons .social-button.pinterest{background:#cb2027}.rounded-social-buttons .social-button.pinterest:before{font-family:FontAwesome;content:"\f231"}.rounded-social-buttons .social-button.pinterest:focus,.rounded-social-buttons .social-button.pinterest:hover{color:#cb2027;background:#fefefe;border-color:#cb2027}.rounded-social-buttons .social-button.tumblr{background:#35465c}.rounded-social-buttons .social-button.tumblr:before{font-family:FontAwesome;content:"\f173"}.rounded-social-buttons .social-button.tumblr:focus,.rounded-social-buttons .social-button.tumblr:hover{color:#35465c;background:#fefefe;border-color:#35465c}.rounded-social-buttons .social-button.telegram{background:#08c}.rounded-social-buttons .social-button.telegram:before{font-family:FontAwesome;content:"\f2c6"}.rounded-social-buttons .social-button.telegram:focus,.rounded-social-buttons .social-button.telegram:hover{color:#08c;background:#fefefe;border-color:#08c}.rounded-social-buttons .social-button.flikrs{background:#ff0084}.rounded-social-buttons .social-button.flikrs:before{font-family:FontAwesome;content:"\f16e"}.rounded-social-buttons .social-button.flikrs:focus,.rounded-social-buttons .social-button.flikrs:hover{color:#ff0084;background:#fefefe;border-color:#ff0084}.rounded-social-buttons .social-button.vimeo{background:#162221}.rounded-social-buttons .social-button.vimeo:before{font-family:FontAwesome;content:"\f27d"}.rounded-social-buttons .social-button.vimeo:focus,.rounded-social-buttons .social-button.vimeo:hover{color:#162221;background:#fefefe;border-color:#162221}.rounded-social-buttons .social-button.vkontakte{background:#45668e}.rounded-social-buttons .social-button.vkontakte:before{font-family:FontAwesome;content:"\f189"}.rounded-social-buttons .social-button.vkontakte:focus,.rounded-social-buttons .social-button.vkontakte:hover{color:#45668e;background:#fefefe;border-color:#45668e}  
+.about-simpl {
+	background: #06beb6; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #06beb6, #48b1bf); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #06beb6, #48b1bf); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-position: 50%;
+    color: #fff;
+    padding: 40px;
+    margin: auto;}
+
+ /* -------------- scoroll pourcentage strart  -------------- */
+#scroll {
+  display:none;
+  position:fixed;
+  top:0;
+  right:15px;
+  z-index:500;
+  padding:3px 8px;
+  background-color:#369fcf;
+  color:#fff;
+  border-radius:3px;
+  font-size:14px;  
+}
+#scroll:after {
+  content: " ";
+  position: absolute;
+  top:50%;
+  right:-10px;
+  height:0;
+  width:0;
+  margin-top:-6px;
+  border:6px solid transparent;
+  border-left-color:#369fcf;
+}
+ /* -------------- scoroll pourcentage end  -------------- */
+
+
+
+
+
 /*!
  *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
@@ -16580,212 +16795,3 @@ h6 {
     background-color: rgba(255, 255, 255, .97);
   }
 }
-
-
-/* Download link */
-
-
-.btndown {
-  float: left;
-  list-style: none;
-  text-align: center;
-  width: 95%;
-  margin: 10px;
-  padding: 2px;
-  font-size: 14px;
-  clear: both;
-    display: inline;
-  margin: 5px;
-  padding: 0;
-}
-
-
-.btndown {
-  position: relative;
-  padding: 14px 48px 14px 16px;
-  background: #02B070;
-  display: block;
-  color: #fff!important;
-  font-weight: 700;
-  font-size: 14px;
-  text-align: left;
-  text-transform: uppercase;
-  letter-spacing: .2px;
-  border-radius: 3px;
-  box-shadow: 0 1px rgba(0, 0, 0, 0.1);
-  line-height: normal;
-  transition: all .3s;
-  max-width: 580px;
-  margin: auto;
-  overflow: hidden;
-}
-
-.btndown {
-  background: #02B070;
-}
-
-.btndown:hover {
-  background: #111;
-}
-
-.btndown:active {
-  cursor: pointer;
-}
-.btndown:after {
-  content: '\F019';
-  background: rgba(0, 0, 0, 0.1);
-  position: absolute;
-  right: 0;
-  top: 0;
-  font-weight: normal;
-  display: inline-block;
-  margin: 0 0 0 10px;
-  color: #fff;
-  padding: 16px 24px;
-  font-family: fontawesome;
-  transition: all .3s;
-}
-
-.btndown:hover .btndown:after {
-  background: transparent;
-  -webkit-animation: bounceright .3s alternate ease infinite;
-  animation: bounceright .3s alternate ease infinite;
-}
-
-
-@-webkit-keyframes bounceright {
-  from {
-    -webkit-transform: translateX(0);
-  }
-  to {
-    -webkit-transform: translateX(3px);
-  }
-}
-
-@keyframes bounceright {
-  from {
-    transform: translateX(0);
-  }
-  to {
-    transform: translateX(3px);
-  }
-}
-
-
-
-.Tdown{
-box-sizing: border-box;
-background-color:#F3F6F7;
-border-top:3px solid #01B170;
-border-bottom:3px solid #01B170;
-border-right:3px solid #01B170;
-border-left:3px solid #01B170;
-position:relative;
-text-align: left;
-  display:inline-block;
-  margin:15px 5px;
-  padding:10px 10px 10px 30px;
-  color:#252525;
-  width: 100%;
-  max-width: 580px;
-  transition:all 0.4s ease
-}
-
-
-
-.bdown {
-    background: #000 none repeat scroll 0 0;
-    color: orange;
-    border-left: 5px solid orange;
-    border-radius: 5px;
-    position: relative;
-    overflow: hidden;
-    font-size: 14px;
-    font-weight: 600;
-    padding: 8px;
-  text-decoration: none;
-  }
- .bdown {
-    display: block;
-    list-style-type: disc;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    padding-inline-start: 40px;
-}
-.bdown:hover {
-      color: blue;
-    border-color: blue;
-}
-#pageredirect .radialbtn a {
-    display: inline-block;
-    background-color: #429481;
-    padding: 15px 20px;
-    min-width: 250px;
-    font-size: 16px;
-    color: #fff;
-    text-decoration: none;
-    cursor: progress;
-}
-.post-body .btn{display:inline-block;color:#FFFFFF}
-.btn{max-width: max-content; border-radius:2px;background:#D32F2F;padding:10px 20px;margin:5px;color:#fff;text-align:center;border:0;cursor:pointer;display:inline-block;text-decoration:none;font-weight:400;color:#fff;-webkit-box-shadow:0 4px 4px -2px rgba(0,0,0,0.1);;box-shadow:0 4px 4px -2px rgba(0,0,0,0.1)}
-.btn.small{font-size:12px;padding:6px 16px}
-.button.medium{font-size:14px;padding:8px 18px}
-.btn.large{font-size:16px;padding:10px 20px}
-.btn:hover{box-shadow:none;color:#fff;text-decoration:none; -webkit-box-shadow:none;    background-color: black;}
-.btn:active{top:1px}
-.red{background:#e74c3c}
-.orange{background:#F39C12}
-.green{background:#2ecc71}
-.blue{background:#3498db}
-.purple{background:#9b59b6}
-.yellow{background:#FFD600}
-.pink{background:#F889EB}
-.grey{background:#bdc3c7}
-.turquoise{background:#1abc9c}
-.midnight{background:#2c3e50}
-.asbestos{background:#6d7b7c}
-.dark{background:#454545}
-.small-btn{width:100%;overflow:hidden;clear:both}
-.medium-bnt{width:100%;overflow:hidden;clear:both}
-.large-btn{width:100%;overflow:hidden;clear:both}
-
-
- /* -------------- about page Socialbuttons  -------------- */
-
-  .rounded-social-buttons{text-align:center}.rounded-social-buttons .social-button{display:inline-block;position:relative;cursor:pointer;width:3.125rem;height:3.125rem;border:.125rem solid transparent;padding:0;text-decoration:none;text-align:center;color:#fefefe;font-size:1.5625rem;font-weight:400;line-height:2em;border-radius:1.6875rem;transition:all .5s ease;margin-right:.25rem;margin-bottom:.25rem}.rounded-social-buttons .social-button:focus,.rounded-social-buttons .social-button:hover{-webkit-transform:rotate(360deg);-ms-transform:rotate(360deg);transform:rotate(360deg)}.rounded-social-buttons .social-button.facebook{background:#3b5998}.rounded-social-buttons .social-button.facebook:before{font-family:FontAwesome;content:"\f09a"}.rounded-social-buttons .social-button.facebook:focus,.rounded-social-buttons .social-button.facebook:hover{color:#3b5998;background:#fefefe;border-color:#3b5998}.rounded-social-buttons .social-button.twitter{background:#55acee}.rounded-social-buttons .social-button.twitter:before{font-family:FontAwesome;content:"\f099"}.rounded-social-buttons .social-button.twitter:focus,.rounded-social-buttons .social-button.twitter:hover{color:#55acee;background:#fefefe;border-color:#55acee}.rounded-social-buttons .social-button.linkedin{background:#007bb5}.rounded-social-buttons .social-button.linkedin:before{font-family:FontAwesome;content:"\f0e1"}.rounded-social-buttons .social-button.linkedin:focus,.rounded-social-buttons .social-button.linkedin:hover{color:#007bb5;background:#fefefe;border-color:#007bb5}.rounded-social-buttons .social-button.youtube{background:#b00}.rounded-social-buttons .social-button.youtube:before{font-family:FontAwesome;content:"\f167"}.rounded-social-buttons .social-button.youtube:focus,.rounded-social-buttons .social-button.youtube:hover{color:#b00;background:#fefefe;border-color:#b00}.rounded-social-buttons .social-button.instagram{background:#c13584}.rounded-social-buttons .social-button.instagram:before{font-family:FontAwesome;content:"\f16d"}.rounded-social-buttons .social-button.instagram:focus,.rounded-social-buttons .social-button.instagram:hover{color:#c13584;background:#fefefe;border-color:#c13584}.rounded-social-buttons .social-button.pinterest{background:#cb2027}.rounded-social-buttons .social-button.pinterest:before{font-family:FontAwesome;content:"\f231"}.rounded-social-buttons .social-button.pinterest:focus,.rounded-social-buttons .social-button.pinterest:hover{color:#cb2027;background:#fefefe;border-color:#cb2027}.rounded-social-buttons .social-button.tumblr{background:#35465c}.rounded-social-buttons .social-button.tumblr:before{font-family:FontAwesome;content:"\f173"}.rounded-social-buttons .social-button.tumblr:focus,.rounded-social-buttons .social-button.tumblr:hover{color:#35465c;background:#fefefe;border-color:#35465c}.rounded-social-buttons .social-button.telegram{background:#08c}.rounded-social-buttons .social-button.telegram:before{font-family:FontAwesome;content:"\f2c6"}.rounded-social-buttons .social-button.telegram:focus,.rounded-social-buttons .social-button.telegram:hover{color:#08c;background:#fefefe;border-color:#08c}.rounded-social-buttons .social-button.flikrs{background:#ff0084}.rounded-social-buttons .social-button.flikrs:before{font-family:FontAwesome;content:"\f16e"}.rounded-social-buttons .social-button.flikrs:focus,.rounded-social-buttons .social-button.flikrs:hover{color:#ff0084;background:#fefefe;border-color:#ff0084}.rounded-social-buttons .social-button.vimeo{background:#162221}.rounded-social-buttons .social-button.vimeo:before{font-family:FontAwesome;content:"\f27d"}.rounded-social-buttons .social-button.vimeo:focus,.rounded-social-buttons .social-button.vimeo:hover{color:#162221;background:#fefefe;border-color:#162221}.rounded-social-buttons .social-button.vkontakte{background:#45668e}.rounded-social-buttons .social-button.vkontakte:before{font-family:FontAwesome;content:"\f189"}.rounded-social-buttons .social-button.vkontakte:focus,.rounded-social-buttons .social-button.vkontakte:hover{color:#45668e;background:#fefefe;border-color:#45668e}  
-.about-simpl {
-	background: #06beb6; /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #06beb6, #48b1bf); /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #06beb6, #48b1bf); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    background-position: 50%;
-    color: #fff;
-    padding: 40px;
-    margin: auto;}
-
- /* -------------- scoroll pourcentage strart  -------------- */
-#scroll {
-  display:none;
-  position:fixed;
-  top:0;
-  right:15px;
-  z-index:500;
-  padding:3px 8px;
-  background-color:#369fcf;
-  color:#fff;
-  border-radius:3px;
-  font-size:14px;  
-}
-#scroll:after {
-  content: " ";
-  position: absolute;
-  top:50%;
-  right:-10px;
-  height:0;
-  width:0;
-  margin-top:-6px;
-  border:6px solid transparent;
-  border-left-color:#369fcf;
-}
- /* -------------- scoroll pourcentage end  -------------- */
