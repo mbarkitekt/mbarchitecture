@@ -4,7 +4,7 @@
 
  */
 
-.article-post a .btndown{
+.article-post.btndown{
   float: left;
   list-style: none;
   text-align: center;
@@ -19,7 +19,7 @@
 }
 
 
-.article-post a .btndown{
+.article-post.btndown{
   position: relative;
   padding: 14px 48px 14px 16px;
   background: #02B070;
@@ -39,18 +39,18 @@
   overflow: hidden;
 }
 
-.article-post a .btndown{
+.article-post .btndown{
   background: #02B070;
 }
 
-.article-post a .btndown:hover {
+.article-post .btndown:hover {
   background: #111;
 }
 
-.article-post a .btndown:active {
+.article-post .btndown:active {
   cursor: pointer;
 }
-.article-post a .btndown:after {
+.article-post .btndown:after {
   content: '\F019';
   background: rgba(0, 0, 0, 0.1);
   position: absolute;
@@ -65,7 +65,7 @@
   transition: all .3s;
 }
 
-.article-post a .btndown:hover .btndown::after {
+.article-post .btndown:hover .btndown::after {
   background: transparent;
   -webkit-animation: bounceright .3s alternate ease infinite;
   animation: bounceright .3s alternate ease infinite;
@@ -112,7 +112,7 @@ text-align: left;
 
 
 
-.article-post a .bdown {
+.article-post .bdown {
     background: #000 none repeat scroll 0 0;
     color: orange;
     border-left: 5px solid orange;
@@ -124,7 +124,7 @@ text-align: left;
     padding: 8px;
   text-decoration: none;
   }
-.article-post a .bdown {
+.article-post .bdown {
     display: block;
     list-style-type: disc;
     margin-block-start: 1em;
@@ -133,7 +133,7 @@ text-align: left;
     margin-inline-end: 0px;
     padding-inline-start: 40px;
 }
-.article-post .a .bdown:hover {
+.article-post .bdown:hover {
       color: blue;
     border-color: blue;
 }
@@ -147,28 +147,7 @@ text-align: left;
     text-decoration: none;
     cursor: progress;
 }
-.post-body .btn{display:inline-block;color:#FFFFFF}
-.btn{max-width: max-content; border-radius:2px;background:#D32F2F;padding:10px 20px;margin:5px;color:#fff;text-align:center;border:0;cursor:pointer;display:inline-block;text-decoration:none;font-weight:400;color:#fff;-webkit-box-shadow:0 4px 4px -2px rgba(0,0,0,0.1);;box-shadow:0 4px 4px -2px rgba(0,0,0,0.1)}
-.btn.small{font-size:12px;padding:6px 16px}
-.button.medium{font-size:14px;padding:8px 18px}
-.btn.large{font-size:16px;padding:10px 20px}
-.btn:hover{box-shadow:none;color:#fff;text-decoration:none; -webkit-box-shadow:none;    background-color: black;}
-.btn:active{top:1px}
-.red{background:#e74c3c}
-.orange{background:#F39C12}
-.green{background:#2ecc71}
-.blue{background:#3498db}
-.purple{background:#9b59b6}
-.yellow{background:#FFD600}
-.pink{background:#F889EB}
-.grey{background:#bdc3c7}
-.turquoise{background:#1abc9c}
-.midnight{background:#2c3e50}
-.asbestos{background:#6d7b7c}
-.dark{background:#454545}
-.small-btn{width:100%;overflow:hidden;clear:both}
-.medium-bnt{width:100%;overflow:hidden;clear:both}
-.large-btn{width:100%;overflow:hidden;clear:both}
+
 
 
  /* -------------- about page Socialbuttons  -------------- */
@@ -995,7 +974,7 @@ text-align: left;
 }
 
 .fa-lemon-o:before {
-  content: "\f094"
+	content: "\f094"
 }
 
 .fa-phone:before {
